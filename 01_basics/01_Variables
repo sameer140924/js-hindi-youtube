@@ -1,0 +1,10 @@
+const accountId = 155656 //it cannot be updated later
+let accountEmail = "abc@gmail.com" // it can be updated 
+// accountId = 5565 - cannot do this as it is a const variable
+var accountCity = "Bengaluru" // var has be used in early times but it has a block scope and functional scope issue so now it is not used
+ account = 45555 // this also works in js but never do like thi
+ let acc; // it has "undifined" byDefault
+ // abc; this is wrong 
+ console.table([accountId,accountEmail,accountCity,account,acc])
+ // ; lagao nahi lago koi fark nahi padtha js m.
+
