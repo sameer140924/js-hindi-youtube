@@ -1,0 +1,20 @@
+"use strict" //code will be treated as new version by the engine 
+//Most important tjing is code Readability
+
+let isLoggedIn = false
+let state
+console.log(typeof undefined); //undefined
+console.log(typeof null); //object
+
+//Primitive Data Types
+// number => -2^53-1 to 2^53-1
+// bigint
+// string => "" ''
+// boolean => true/false
+// null => standalone value
+// undefined => 
+// symbol => unique
+
+//object
+
+// alert(3+3) will not work here as we r currently using node not browser
